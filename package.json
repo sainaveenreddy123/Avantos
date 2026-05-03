@@ -1,0 +1,15 @@
+{
+  "name": "angelica-polkadot-score",
+  "version": "1.0.0",
+  "main": "src/computePolkadotScore.js",
+  "scripts": {
+    "test": "node test/computePolkadotScore.test.js"
+  },
+  "description": "Screening",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
